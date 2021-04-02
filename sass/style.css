@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 24px;
+  background: #F6F6F6;
+  font-family: 'Myriad';
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-left: -1200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
+}
+
+.title {
+  font-family: 'Myriad-bold';
+}
+
+.beats {
+  background-color: #ffffff;
+  position: absolute;
+  top: 50%;
+  margin-top: -300px;
+}
+
+.beats_block {
+  padding: 65px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.beats_title {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.beats_buy {
+  padding: 17px 40px;
+  background-color: #EC744A;
+  outline: none;
+  border: none;
+  color: #ffffff;
+  font-size: 1.30rem;
+}
+
+.beats_price {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.beats_price_money {
+  font-size: 2rem;
+  margin-bottom: 55px;
+  margin-top: 23px;
+}
+
+.beats_text {
+  margin-bottom: 55px;
+  max-width: 600px;
+}
+
+.beats_product {
+  padding-right: 97px;
+}
+/*# sourceMappingURL=style.css.map */

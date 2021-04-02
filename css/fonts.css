@@ -1,0 +1,12 @@
+@font-face{
+    src: url(../fonts/ofont.ru_Myriad_Pro.ttf);
+    font-family: 'Myriad' ;
+    font-weight: normal;
+    font-size: normal;
+}
+@font-face{
+    src: url(../fonts/ofont.ru_Myriad_Pro_bold.ttf);
+    font-family: 'Myriad-bold' ;
+    font-weight: normal;
+    font-size: normal;
+}

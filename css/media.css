@@ -1,0 +1,15 @@
+@media (max-width:1010px) {
+.beats_block{
+  flex-direction: column;
+}
+.beats_description{
+  text-align: center;
+}
+html{
+  margin-left: -725px;
+}
+.beats_product{
+  padding: 0;
+}
+}
+
